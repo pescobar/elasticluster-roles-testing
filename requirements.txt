@@ -198,7 +198,7 @@ requests==2.14.2
 requests-oauthlib==0.8.0
 requestsexceptions==1.4.0
 rfc3986==1.1.0
-rsa==3.4.2
+rsa==4.1
 ruamel-yaml==0.15.35
 scandir==1.7
 schema==0.6.7
