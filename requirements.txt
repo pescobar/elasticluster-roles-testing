@@ -193,7 +193,7 @@ python-neutronclient==6.8.0
 python-novaclient==10.1.0
 python-vagrant==0.5.15
 pytz==2018.4
-PyYAML==3.12
+PyYAML==5.4
 requests==2.14.2
 requests-oauthlib==0.8.0
 requestsexceptions==1.4.0
