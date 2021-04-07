@@ -1,5 +1,5 @@
 adal==0.5.1
-ansible==2.3.3.0
+ansible==2.10.0
 ansible-lint==3.4.19
 anyconfig==0.9.1
 apache-libcloud==2.3.0
