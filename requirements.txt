@@ -101,7 +101,7 @@ coloredlogs==9.0
 conda==4.5.0
 configparser==3.5.0
 contextlib2==0.5.5
-cookiecutter==1.5.1
+cookiecutter==2.1.1
 cryptography==2.1.4
 debtcollector==1.19.0
 decorator==4.2.1
